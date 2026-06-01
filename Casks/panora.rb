@@ -1,6 +1,6 @@
 cask "panora" do
-  version "1.0.1"
-  sha256 "2f34cb8fd58316196553b8448302bc5254593196330f415f99e4a7bc09ccc6d2"
+  version "1.0.2"
+  sha256 "1ab1b1d786cdd25896afc3a3519881ded13b416c057b79a5a3051bd6f6f14e85"
 
   url "https://github.com/Herbrant/panora/releases/download/v#{version}/Panora-#{version}.dmg"
   name "Panora"
